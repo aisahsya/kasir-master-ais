@@ -1,5 +1,5 @@
 # Kasir App
-Aplikasi Kasir Penjualan Menggunakan Codeigniter Bootstrap Adminlte
+Aplikasi Kasir ini merupakan contoh project Uji Kompetensi Program Keahlian Rekayasa Perangkat Lunak.Aplikasi ini Menggunakan Codeigniter Bootstrap Adminlte
 
 Aplikasi ini dibuat dengan:
 * **Codeigniter 3**
